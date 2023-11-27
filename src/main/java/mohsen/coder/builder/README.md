@@ -1,9 +1,3 @@
-[//]: # (<style>)
-
-[//]: # (@import url&#40;'https://fonts.googleapis.com/css2?family=Roboto:wght@900&family=Vazirmatn:wght@200;300;500;900&display=swap'&#41;;)
-
-[//]: # (</style>)
-
 <div dir="rtl" style="line-height: 2rem">
 
 # آموزش دیزاین پترن Builder
