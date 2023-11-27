@@ -1,6 +1,8 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&family=Vazirmatn:wght@200;300;500;900&display=swap');
-</style>
+[//]: # (<style>)
+
+[//]: # (@import url&#40;'https://fonts.googleapis.com/css2?family=Roboto:wght@900&family=Vazirmatn:wght@200;300;500;900&display=swap'&#41;;)
+
+[//]: # (</style>)
 
 <div dir="rtl" style="font-family: 'Vazirmatn'; line-height: 2rem">
 
