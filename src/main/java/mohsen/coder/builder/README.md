@@ -4,7 +4,7 @@
 
 [//]: # (</style>)
 
-<div dir="rtl" style="font-family: 'Vazirmatn'; line-height: 2rem">
+<div dir="rtl" style="line-height: 2rem">
 
 # دیزاین پترن Builder
 
