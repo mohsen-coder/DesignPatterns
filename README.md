@@ -11,6 +11,12 @@
 
 <li>
 
+[Factory Design Pattern](https://github.com/mohsen-coder/DesignPatterns/tree/main/src/main/java/mohsen/coder/factory)
+
+</li>
+
+<li>
+
 [Builder Design Pattern](https://github.com/mohsen-coder/DesignPatterns/tree/master/src/main/java/mohsen/coder/builder)
 
 </li>
