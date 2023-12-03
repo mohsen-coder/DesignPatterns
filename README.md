@@ -27,6 +27,12 @@
 
 </li>
 
+<li>
+
+[Adapter Design Pattern](https://github.com/mohsen-coder/DesignPatterns/tree/main/src/main/java/mohsen/coder/adapter)
+
+</li>
+
 </ol>
 
 [//]: # ()
